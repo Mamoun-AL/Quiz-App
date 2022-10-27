@@ -23,7 +23,7 @@ function questions() {
       create_elem_ans(questions_obj[index]);
       index_box.innerHTML = index + 1;
       chose_clicked_ans();
-      countdown(2, 30, q_count, index);
+      countdown(1, 10, q_count, index);
 
       submit_btn.onclick = () => {
         check_answer(questions_obj, index);
