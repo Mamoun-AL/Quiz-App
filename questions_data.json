@@ -1,0 +1,79 @@
+[
+      {
+        "title": "Which country has the longest coastline in the world?",
+        "answer1": "Australia",
+        "answer2": "Indonesia",
+        "answer3": "Russia",
+        "answer4": "Canada",
+        "right_ans": "Canada"
+      },
+      {
+        "title": "What is the world's most populated country?",
+        "answer1": "China",
+        "answer2": "Russia",
+        "answer3": "India",
+        "answer4": "USA",
+        "right_ans": "China"
+      },
+      
+      {
+        "title": "Who was the first man to reach the South Pole?",
+        "answer1": "Roald Amundsen",
+        "answer2": "Edmund Hillary",
+        "answer3": "Robert Falcon Scott",
+        "answer4": "Tom Creen",
+        "right_ans": "Roald Amundsen"
+      },
+      {
+        "title": "What is the most abundant gas in the Earth’s atmosphere?",
+        "answer1": "Nitrogen",
+        "answer2": "Helium",
+        "answer3": "Oxygen",
+        "answer4": "Carbon Dioxide",
+        "right_ans": "Nitrogen"
+      },
+      {
+        "title": "What is the largest planet in the solar system?",
+        "answer1": "Earth",
+        "answer2": "Uranus",
+        "answer3": "Saturn",
+        "answer4": "Jupiter",
+        "right_ans": "Jupiter"
+      },
+      {
+        "title": "In what French museum is Mona Lisa exhibited?",
+        "answer1": "Orsay",
+        "answer2": "Louvre",
+        "answer3": "Rodin",
+        "answer4": "Cluny",
+        "right_ans": "Louvre"
+      },
+      {
+        "title": "In which country is Mount Fuji located?",
+        "answer1": "North Korea",
+        "answer2": "Japan",
+        "answer3": "Peru",
+        "answer4": "China",
+        "right_ans": "Japan"
+      }
+      ,
+      {
+        "title": "What is the capital of Australia?",
+        "answer1": "Sydney",
+        "answer2": "Canberra",
+        "answer3": "Adelaide",
+        "answer4": "Melbourne",
+        "right_ans": "Canberra"
+      }
+      ,
+      {
+        "title": "In which country is the world's highest waterfall?",
+        "answer1": "Venezuela",
+        "answer2": "USA",
+        "answer3": "South Africa",
+        "answer4": "Brazil",
+        "right_ans": "Venezuela"
+      }
+      
+       
+    ]
