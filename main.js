@@ -50,7 +50,7 @@ function questions() {
       };
     }
   };
-  request.open("GET", "html_questions.json", true);
+  request.open("GET", "questions_data.json", true);
   request.send();
 }
 questions();
