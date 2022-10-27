@@ -73,7 +73,7 @@ function create_elem_ans(q_obj) {
     ans_div.className = "answer-box";
     // paragraph answer
     var ans_para = document.createElement("p");
-    ans_para.innerHTML = q_obj[`answer_${j}`];
+    ans_para.innerHTML = q_obj[`answer${j}`];
     // input
     var inp = document.createElement("input");
     inp.type = "radio";
@@ -95,11 +95,11 @@ function check_answer(q_obj, index) {
     if (ans_box[c].lastElementChild.checked === true) {
       var chosen_btn = ans_box[c];
     }
-    if (ans_box[c].firstElementChild.innerHTML === q_obj[index].right_answer) {
+    if (ans_box[c].firstElementChild.innerHTML === q_obj[index].right_ans) {
       var right_ans_color = ans_box[c];
     }
   }
-  if (chosen_btn.firstElementChild.innerHTML === q_obj[index].right_answer) {
+  if (chosen_btn.firstElementChild.innerHTML === q_obj[index].right_ans) {
     status_color(chosen_btn, "right");
     r_ans_count++;
   } else {
